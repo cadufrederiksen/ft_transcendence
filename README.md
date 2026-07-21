@@ -5,18 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue) ![React](https://img.shields.io/badge/Frontend-React%2019-lightblue) ![NestJS](https://img.shields.io/badge/Backend-NestJS-red) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL%2016-blue) ![Docker](https://img.shields.io/badge/DevOps-Docker--Compose-informational) ![Grafana](https://img.shields.io/badge/Monitoring-Prometheus%20%26%20Grafana-orange)
 
 **Intragram** is a community-oriented social network tailored specifically for the 42 school ecosystem. Built as a full-stack, enterprise-grade web application for **ft_transcendence**, the platform combines remote **42 OAuth** authentication, automated intra profile synchronization, a rich social feed, real-time 1-on-1 messaging, and an asynchronous microservices architecture. All operations are deployed via Docker containers and served under a secure single-host NGINX HTTPS proxy with complete system telemetry.
-
----
-
-## 👥 Team Roles & Contributions
-
-| Role / Function | Member | Key Contributions |
-| :--- | :--- | :--- |
-| **Product Owner (PO) / Developer** | `Ateibuzena` | OAuth flow, User profiles & Sync, Social Feed, Posts, Reactions, Comments, Favorites, Friends system, Monitoring (Prometheus/Grafana), NGINX HTTPS Proxy. |
-| **Project Manager (PM) / Lead Dev** | `Mariano Fernández Rodero` | OAuth flow, Session management, Profile Sync, Feed core, Private Chat, Real-Time WebSockets Engine + Redis Adapter setup. |
-| **Technical Lead / Architect** | `santiago_UT` | Gateway API architecture, microservices decoupling, route proxying, token verification, and security boundaries. |
-
----
+ 
 
 ## 📋 Project Goal & Architecture Overview
 

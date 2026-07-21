@@ -1,6 +1,6 @@
 # 📸 Intragram - Community Social Network for 42
 
-*This project is the final project ft_transcendence from 42 Málaga Fundación Telefónica made by [Ateibuzena](https://github.com/Ateibuzena), [Mariano Fernández Rodero](https://github.com/), [Pedro González]((https://github.com/petazz)) and myself*
+*This project is the final project ft_transcendence from 42 Málaga Fundación Telefónica made by [Ateibuzena](https://github.com/Ateibuzena), [Mariano Fernández Rodero](https://github.com/), [Pedro González](https://github.com/petazz) and myself*
 
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue) ![React](https://img.shields.io/badge/Frontend-React%2019-lightblue) ![NestJS](https://img.shields.io/badge/Backend-NestJS-red) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL%2016-blue) ![Docker](https://img.shields.io/badge/DevOps-Docker--Compose-informational) ![Grafana](https://img.shields.io/badge/Monitoring-Prometheus%20%26%20Grafana-orange)
 
@@ -79,15 +79,3 @@ To exceed the 14-point requirement for *ft_transcendence*, our team successfully
 | **Observability** | Prometheus, Grafana |
 
 ---
-
-## 💻 Instructions
-
-### Prerequisites
-- [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/) installed on your machine.
-- Port `80` and `443` available.
-
-### Setup & Launch
-1. **Clone the repository**:
-   ```bash
-   git clone [https://github.com/your-org/intragram.git](https://github.com/your-org/intragram.git)
-   cd intragram
